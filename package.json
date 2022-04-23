@@ -1,0 +1,19 @@
+{
+  "name": "avatar-trackerbot",
+  "version": "1.0.0",
+  "description": "A simple discord bot that tracks avatar changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "?hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skotman/avatar-trackerbot.git"
+  },
+  "author": "Skotman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Skotman/avatar-trackerbot/issues"
+  },
+  "homepage": "https://github.com/Skotman/avatar-trackerbot#readme"
+}
