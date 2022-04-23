@@ -10,8 +10,8 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
-client.on('interactionCreate', async interaction => {
-	if (!interaction.iscommand()) return;
+client.on('interaction', async interaction => {
+	if (!interaction.isCommand()) return;
 	const { commandName } = interaction;
 	if (commandName === 'ping') {
 		await interaction.reply('Pong!');
