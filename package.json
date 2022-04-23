@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Skotman/avatar-trackerbot/issues"
   },
-  "homepage": "https://github.com/Skotman/avatar-trackerbot#readme"
+  "homepage": "https://github.com/Skotman/avatar-trackerbot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "eslint": "^8.14.0"
+  }
 }
